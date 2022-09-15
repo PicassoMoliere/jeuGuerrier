@@ -1,3 +1,0 @@
-﻿  Jeu2.cpp
-C:\Users\jsleg\source\repos\Jeu2\Jeu2\Jeu2.cpp(113,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Jeu2.vcxproj -> C:\Users\jsleg\source\repos\Jeu2\x64\Debug\Jeu2.exe
